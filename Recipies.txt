@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 sdfwelcome to Telusd
 master
 
 ko Kitchen
+=======
+sdasdsafdaf222222222fwelcome to Telusko Kitchen
+>>>>>>> develop
 
 How are you doing?
 
